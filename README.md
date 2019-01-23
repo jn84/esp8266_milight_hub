@@ -1,7 +1,5 @@
 [![License][shield-license]][info-license]
 
-## This fork has been moved to https://github.com/jn84/RaspberryPi_MiLight_Bridge
-
 This is a fork of [Milight/LimitlessLED remote/gateway](https://github.com/sidoh/esp8266_milight_hub) modified to run on a raspberry pi instead of an ESP8266. If you're like me, you have a number of rpi devices scattered throughout your home with unused SPI interfaces. I didn't want to deal with setting up and powering another device when it isn't necessary. Just tack on an NRF24L01 module, and call it a day.
 
 ---
